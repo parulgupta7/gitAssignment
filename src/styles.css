@@ -1,0 +1,9 @@
+/* You can add global styles to this file, and also import other style files */
+.form-control{
+    width: 50vw;
+    margin-left: 25%;
+    margin-top: 10PX;
+}
+label{
+    margin: 5px;
+}
